@@ -22,6 +22,6 @@ yarn start # run project
 ```bash
 chmod +x ./build.sh
 yarn build
-# then open chrome extensions in your browser, and click load unpacked
-# upload dist assets in releases/<version>/* directory to chrome extensions
+# open your chrome extensions in your browser, and click load unpacked
+# upload distribution assets in releases/<version>/* directory to chrome extensions
 ```
